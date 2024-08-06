@@ -4,17 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Kishor</h1>
 <h3 align="center">A passionate web developer from India</h3>
-Expand
-message.txt
-5 KB
-﻿
-Kishor G
-kishor_g_s
-<img align="center" alt="Banner" src="READER'S MAGAZINE CHOICE 2020.jpg" width="100%">
-
-
-<h1 align="center">Hi 👋, I'm Kishor</h1>
-<h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="programmer.gif" style="transform:translateY(50px)">
 
