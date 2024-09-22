@@ -12,7 +12,7 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="GitHub GIF" width="200px" height="200px" align="right">
   </div>
     <ul>
-      <li>👀 I’m interested in GitHub</li>
+      <li>👀 I’m interested in exploring new technologies</li>
       <li>🌱 I’m currently learning Full Stack development</li>
       <li>💞️ I’m looking to collaborate on Backend and Frontend projects</li>
       <li>📫 How to reach me: <a href="mailto:apoorvapai047@gmail.com">apoorvapai047@gmail.com</a></li>
